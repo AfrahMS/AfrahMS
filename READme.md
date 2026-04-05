@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=160&section=header&text=Artificial%20Intelligence%20%7C%20Computer%20Vision&fontSize=24&fontColor=ffffff" />
 </p>
 
 ### About Me
