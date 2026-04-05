@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f9b0f&height=180&section=header&text=AI%20%7C%20CV%20%7C%20Research&fontSize=26&fontColor=00ff00" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f5ff,100:7a00ff&height=180&section=header&text=AI%20Research%20Mode%20Active&fontSize=26&fontColor=ffffff" />
 </p>
 
 ### About Me
