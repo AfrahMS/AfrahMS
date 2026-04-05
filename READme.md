@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:B3E5FC,100:4FC3F7&height=160&section=header&text=AI%20Research%20%7C%20Computer%20Vision%20Lab&fontSize=18&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:2c5364&height=180&section=header&text=AI%20Research%20%7C%20Computer%20Vision%20Lab&fontSize=18&fontColor=00ffff" />
 </p>
 
 ### About Me
