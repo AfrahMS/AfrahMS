@@ -45,7 +45,7 @@ I am committed to continuous learning and aim to contribute to impactful researc
 
 ---
 
-### 🛠 Languages and Tools
+### Languages and Tools
 
 #### AI / ML Stack
 <p align="center">
