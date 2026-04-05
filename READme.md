@@ -1,8 +1,7 @@
-<h1 align="center">Afrah Shaahid</h1>
-<h3 align="center">Artificial Intelligence | Computer Vision | Research & Innovation</h3>
+<h1 align="center">Hello World, I'm Afrah Shaahid</h1>
 
 <p align="center">
-📍Based in Saudi Arabia  
+Artificial Intelligence | Computer Vision | Research & Innovation
 </p>
 
 ---
