@@ -26,29 +26,44 @@ I am committed to continuous learning and aim to contribute to impactful researc
 
 ### Technical Skills
 
-**Artificial Intelligence & Machine Learning**  
-- Supervised, Unsupervised, and Ensemble Learning  
-- Model Evaluation, Optimization, and Performance Analysis  
+#### Artificial Intelligence & Machine Learning
+- Supervised, Unsupervised, and Ensemble Learning techniques  
+- Deep Learning models for classification, detection, and prediction tasks  
+- Model evaluation, optimization, and performance tuning  
+- Feature engineering and data preprocessing pipelines  
 
-**Computer Vision**  
-- Image Classification, Object Detection, and Image Enhancement  
-- Image Restoration and Processing  
+#### Computer Vision
+- Image classification, object detection, and segmentation  
+- Image restoration, enhancement, and denoising techniques  
+- Deep learning-based visual recognition and representation learning  
+- Experience with CNN-based architectures and transfer learning  
 
-**Frameworks and Libraries**  
-- PyTorch, TensorFlow, Keras  
-- Scikit-learn, OpenCV  
-- Pandas, NumPy, Matplotlib  
-
-**Programming Languages**  
-- Python, C/C++, Java, MATLAB  
-
-**Tools and Platforms**  
-- Git and GitHub  
-- Jupyter Notebook, Google Colab  
-- Visual Studio Code  
+#### Research & Analytical Skills
+- Experimental design and comparative model analysis  
+- Algorithm evaluation and performance benchmarking  
+- Academic research in AI and Computer Vision domains  
+- Technical writing and structured reporting of results  
 
 ---
 
+### 🛠 Languages and Tools
+
+#### AI / ML Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,jupyter" />
+</p>
+
+#### Development & Engineering Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,latex" />
+</p>
+
+#### Data & Web Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,js,bootstrap,nodejs,react" />
+</p>
+
+---
 ### Current Interests
 - Advanced Deep Learning and Generative AI  
 - Vision-Language and Multimodal Systems  
