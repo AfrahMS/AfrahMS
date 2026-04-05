@@ -71,12 +71,6 @@ I am committed to continuous learning and aim to contribute to impactful researc
 
 ---
 
-### Contact
-📧 afrahshaahid@outlook.com  
-💼 https://www.linkedin.com/in/afrah-shaahid-76967421a/  
-
----
-
 <p align="center">
 <i>Focused on developing reliable and impactful AI solutions.</i>
 </p>
