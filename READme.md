@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Afrah+Shaahid;Artificial+Intelligence+%7C+Computer+Vision+%7C+Research+%26+Innovation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Afrah+Shaahid;AI+%7C+Computer+Vision+%7C+Research+%26+Innovation" />
 </p>
 ---
 
