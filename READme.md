@@ -1,9 +1,6 @@
-<h1 align="center">Hello World, I'm Afrah Shaahid</h1>
-
 <p align="center">
-Artificial Intelligence | Computer Vision | Research & Innovation
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Afrah+Shaahid;Artificial+Intelligence+%7C+Computer+Vision+%7C+Research+%26+Innovation" />
 </p>
-
 ---
 
 ### About Me
