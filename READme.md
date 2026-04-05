@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Afrah+Shaahid;AI+%7C+Computer+Vision+%7C+Research+%26+Innovation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello%20World%20I'm%20Afrah%20Shaahid&fontSize=25" />
 </p>
----
 
 ### About Me
 I am an Artificial Intelligence enthusiast with a strong academic background in Computer Science and hands-on experience in machine learning, deep learning, and data analysis. I am particularly interested in developing intelligent systems that address real-world challenges through data-driven approaches.  
