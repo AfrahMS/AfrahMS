@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00f5ff,100:7a00ff&height=180&section=header&text=AI%20Research%20Mode%20Active&fontSize=26&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e0e0e0&height=150&section=header&text=Afrah%20Shaahid%20%7C%20AI%20Researcher&fontSize=24&fontColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Hello+World,+I'm+Afrah+Shaahid" />
 </p>
 
 ### About Me
