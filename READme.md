@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:000000,100:1f1f2e&height=180&section=header&text=Hello%20World,%20I'm%20Afrah%20Shaahid!&fontSize=24&fontColor=00ffcc" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e0e0e0&height=150&section=header&text=Afrah%20Shaahid%20%7C%20AI%20Researcher&fontSize=24&fontColor=000000" />
 </p>
 
 ### About Me
