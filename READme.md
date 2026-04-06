@@ -71,5 +71,5 @@ I am committed to continuous learning and aim to contribute to impactful researc
 ---
 
 <p align="center">
-<i>Focused on developing reliable and impactful AI solutions.</i>
+<i>Building intelligent AI systems that make an impact!</i>
 </p>
