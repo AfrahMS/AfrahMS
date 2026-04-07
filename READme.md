@@ -41,12 +41,6 @@ I am committed to continuous learning and aim to contribute to impactful researc
 </p>
 
 ---
-### Current Interests
-- Advanced Deep Learning and Generative AI  
-- Vision-Language and Multimodal Systems  
-- Research-oriented Artificial Intelligence Applications  
-
----
 
 <p align="center">
 <i>Building intelligent AI systems that make an impact!</i>
