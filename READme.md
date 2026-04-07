@@ -23,28 +23,6 @@ I am committed to continuous learning and aim to contribute to impactful researc
 
 ---
 
-### Technical Skills
-
-#### Artificial Intelligence & Machine Learning
-- Supervised, Unsupervised, and Ensemble Learning techniques  
-- Deep Learning models for classification, detection, and prediction tasks  
-- Model evaluation, optimization, and performance tuning  
-- Feature engineering and data preprocessing pipelines  
-
-#### Computer Vision
-- Image classification, object detection, and segmentation  
-- Image restoration, enhancement, and denoising techniques  
-- Deep learning-based visual recognition and representation learning  
-- Experience with CNN-based architectures and transfer learning  
-
-#### Research & Analytical Skills
-- Experimental design and comparative model analysis  
-- Algorithm evaluation and performance benchmarking  
-- Academic research in AI and Computer Vision domains  
-- Technical writing and structured reporting of results  
-
----
-
 ### Languages and Tools
 
 #### AI / ML Stack
